@@ -17,3 +17,10 @@
 Search terms: git, branch, commit, SHA, PR, rollback, Termux, npm, pnpm, Vite, Cloudflare, Worker, Pages, Hyperdrive, Supabase, PostgreSQL, OAuth, redirect URI, Android, WebView, WebToApp, CI, typecheck, lint, tests, build, deployment.
 
 **Rule:** if a note conflicts with the actual repository/configuration, the repository wins. Re-verify and update this toolbox.
+
+## Recently harvested reusable material
+- Android/Termux vs Linux-native tooling: `guides/termux-linux-tooling.md`
+- Supabase tenant-security and cleanup: `guides/supabase-security-validation.md`
+- Secure deployment gates: `checklists/secure-deployment-gate.md`
+- Security review agent prompt: `prompts/security-review-agent.md`
+- Weekly knowledge harvest prompt: `prompts/toolbox-harvester.md`
