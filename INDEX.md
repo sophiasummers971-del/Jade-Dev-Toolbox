@@ -5,6 +5,7 @@
 | Git / GitHub | `guides/git-github.md` |
 | Termux | `guides/termux.md` |
 | Cloudflare | `guides/cloudflare.md` |
+| Cloudflare release notes (15 Oct 2026) | `guides/cloudflare-changelog-2026-10-15.md` |
 | Supabase | `guides/supabase.md` |
 | Android / WebToApp | `guides/android-webtoapp.md` |
 | Testing / CI | `guides/testing-ci.md` |
