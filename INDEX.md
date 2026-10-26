@@ -41,3 +41,6 @@ Search terms: git, branch, commit, SHA, PR, rollback, Termux, npm, pnpm, Vite, C
 - VPN protocol/key mismatch diagnostic: `guides/warp-protocol-key-mismatch.md` (**REFERENCE**; historical log signature observed)
 
 **Evidence labels:** VERIFIED = observed or independently tested with a dated receipt and scope; REFERENCE = guidance or untested proposal; STALE = superseded historical observation. A verified historical error does not establish current service health.
+
+## Current closeout work
+- Evidence-driven project finish-line board: `checklists/project-closeout-board.md` (**REFERENCE / UNVERIFIED**, 2026-10-26). Use before opening fresh feature work.
