@@ -42,5 +42,11 @@ Search terms: git, branch, commit, SHA, PR, rollback, Termux, npm, pnpm, Vite, C
 
 **Evidence labels:** VERIFIED = observed or independently tested with a dated receipt and scope; REFERENCE = guidance or untested proposal; STALE = superseded historical observation. A verified historical error does not establish current service health.
 
+## Harvested 2 November 2026
+- Discord Gateway versus scheduled Worker events, duplicate prevention and acceptance: `guides/discord-gateway-event-acceptance.md` (**REFERENCE**; 3 isolated formatting tests VERIFIED on 2026-11-02, live Gateway UNVERIFIED)
+- Hosted RLS/authorization test ladder: `checklists/hosted-rls-authorization-acceptance.md` (**REFERENCE**; historical native SQL CI evidence VERIFIED, hosted integration UNVERIFIED)
+- Access audience mismatch and source-to-deployment integrity: `guides/access-audience-deployment-provenance.md` (**REFERENCE**; historical observation, current state unknown)
+- Sentinel Gateway architecture and dated evidence: `projects/sentinel-gateway-evidence.md` (**REFERENCE**; hosted unit tests and empty service inventory VERIFIED on 2026-11-02)
+
 ## Current closeout work
 - Evidence-driven project finish-line board: `checklists/project-closeout-board.md` (**REFERENCE / UNVERIFIED**, 2026-10-26). Use before opening fresh feature work.
