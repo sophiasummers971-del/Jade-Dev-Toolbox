@@ -50,3 +50,7 @@ Search terms: git, branch, commit, SHA, PR, rollback, Termux, npm, pnpm, Vite, C
 
 ## Current closeout work
 - Evidence-driven project finish-line board: `checklists/project-closeout-board.md` (**REFERENCE / UNVERIFIED**, 2026-10-26). Use before opening fresh feature work.
+
+## Harvested 9 November 2026
+- Desktop coding-assistant provider selection and Windows Sandbox diagnostic separation: `guides/codex-desktop-provider-recovery.md` (**REFERENCE**; historical selector observation VERIFIED 2026-11-07, successful recovery UNVERIFIED)
+- Agent/consultant evidence-to-claim gate: `checklists/agent-evidence-claim-gate.md` (**REFERENCE**; proposed acceptance tests UNVERIFIED)
